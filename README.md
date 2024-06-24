@@ -11,7 +11,7 @@ A weather app that fetches weather data using the OpenWeatherMap API and changes
 
 ## Demo
 
-![Weather Background Changer Demo]![image](https://github.com/pregeljmatevz/weather-app-background-changer/assets/64079472/08ed2f28-6fbc-4f62-a427-7e572d2a42f7)
+[image](https://github.com/pregeljmatevz/weather-app-background-changer/assets/64079472/08ed2f28-6fbc-4f62-a427-7e572d2a42f7)
 
 
 ## Getting Started
