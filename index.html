@@ -123,7 +123,7 @@ input[type="text"]:focus {
 
         function getWeather() {
             var city = document.getElementById("cityInput").value;
-            var apiKey = '58f26e6df70e8c7a2dce38ca3110a3e2';
+            var apiKey = 'your_api_key_here';
             var apiURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
 
             fetch(apiURL)
